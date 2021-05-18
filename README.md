@@ -2,4 +2,4 @@
 
 ## :open_file_folder: Jupyter_NoteBook
 
-- [Area_Of_Interest.ipynb](https://github.com/genesys-ai/jaipur-asset-detection/blob/main/Jupyter_NoteBook/Detectron2training_code.ipynb) ```Code_For_AOI```
+- [Area_Of_Interest.ipynb](https://github.com/AbirKhan96/Area_Of_Interest/blob/main/AOI_for_Jaipur.ipynb) ```Code_For_AOI```
